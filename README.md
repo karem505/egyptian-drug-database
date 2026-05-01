@@ -155,9 +155,9 @@ This dataset is provided **for informational and software-development purposes o
 
 ## License — الترخيص
 
-Released under [Creative Commons Zero v1.0 Universal (CC0-1.0)](LICENSE) — public domain dedication. You can copy, modify, and redistribute the data without permission or attribution.
+Released under **Creative Commons Zero v1.0 Universal (CC0-1.0)** — public-domain dedication. You can copy, modify, and redistribute the data without permission or attribution. Full license text: <https://creativecommons.org/publicdomain/zero/1.0/>
 
-البيانات متاحة تحت رخصة [المشاع الإبداعي صفر CC0-1.0](LICENSE) — ملكية عامة. يمكن النسخ والتعديل وإعادة التوزيع بدون إذن.
+البيانات متاحة تحت رخصة **المشاع الإبداعي صفر CC0-1.0** — ملكية عامة. يمكن النسخ والتعديل وإعادة التوزيع بدون إذن.
 
 ---
 
