@@ -1,11 +1,11 @@
 # Egyptian Drug Database — قاعدة بيانات الأدوية المصرية
 
-> **24,868 medicines registered in Egypt** with Arabic + English trade names, scientific composition, manufacturer, drug class, route of administration, and current EGP price.
+> **25,070 medicines registered in Egypt** with Arabic + English trade names, scientific composition, manufacturer, drug class, route of administration, and current EGP price.
 >
-> **24,868 دواء مسجل في مصر** مع الأسماء التجارية بالعربي والإنجليزي، التركيب العلمي، الشركة المنتجة، التصنيف الدوائي، طريقة الاستخدام، والسعر بالجنيه المصري.
+> **25,070 دواء مسجل في مصر** مع الأسماء التجارية بالعربي والإنجليزي، التركيب العلمي، الشركة المنتجة، التصنيف الدوائي، طريقة الاستخدام، والسعر بالجنيه المصري.
 
-![records](https://img.shields.io/badge/records-24%2C868-2ea44f)
-![updated](https://img.shields.io/badge/updated-May%202026-blue)
+![records](https://img.shields.io/badge/records-25%2C070-2ea44f)
+![updated](https://img.shields.io/badge/updated-June%202026-blue)
 ![format](https://img.shields.io/badge/format-CSV%20%7C%20JSON-orange)
 ![license](https://img.shields.io/badge/license-CC0--1.0-lightgrey)
 
@@ -17,7 +17,7 @@ A clean, machine-readable dataset of medicines available in the Egyptian pharmac
 
 قاعدة بيانات نظيفة وقابلة للقراءة آليًا للأدوية المتاحة في السوق المصري. مفيدة لتطبيقات الصيدليات، أنظمة العيادات، برامج كتابة الروشتات، خدمات التفاعلات الدوائية، محركات البحث الطبية، تطبيقات الذكاء الاصطناعي، والأبحاث الأكاديمية في مجال تسعير الأدوية.
 
-**Last updated:** May 2026 — **آخر تحديث:** مايو 2026
+**Last updated:** June 2026 — **آخر تحديث:** يونيو 2026
 
 ---
 
@@ -51,7 +51,7 @@ A clean, machine-readable dataset of medicines available in the Egyptian pharmac
 
 ```
 data/
-├── egyptian-drugs.csv     # 3.6 MB, UTF-8, 24,868 rows
+├── egyptian-drugs.csv     # 3.6 MB, UTF-8, 25,070 rows
 └── egyptian-drugs.json    # 7.6 MB, pretty-printed JSON array
 ```
 
@@ -113,12 +113,12 @@ curl -sL https://raw.githubusercontent.com/karem505/egyptian-drug-database/main/
 
 | stat | value |
 |---|---|
-| Total records | **24,868** |
-| Distinct trade-name brands | ~13,000 |
-| Records with scientific composition | ~21,000 (≈ 90 %) |
-| Records with drug class | ~24,800 (≈ 99 %) |
-| Records with EGP price | 24,868 (100 %) |
-| Records with Arabic alias | 24,868 (100 %) |
+| Total records | **25,070** |
+| Distinct trade-name brands | ~13,748 |
+| Records with scientific composition | ~22,762 (≈ 91 %) |
+| Records with drug class | ~24,973 (≈ 99.6 %) |
+| Records with EGP price | 25,070 (100 %) |
+| Records with Arabic alias | 25,070 (100 %) |
 | Routes covered | oral solid, oral liquid, injection, topical, ophthalmic, vaginal, rectal, nasal, otic, inhalation, etc. |
 
 ---
