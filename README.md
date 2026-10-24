@@ -2,6 +2,10 @@
 
 <a href="https://github.com/sponsors/karem505"><img src="https://img.shields.io/badge/Sponsor%20this%20project-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor this project on GitHub Sponsors" height="40"></a>
 
+**Sponsorship goal: 10 monthly sponsors.** That funds a monthly refresh of prices and newly registered medicines across all 25,000+ records.
+
+<a href="https://github.com/sponsors/karem505"><img src="https://img.shields.io/github/sponsors/karem505?label=sponsors%20so%20far&style=for-the-badge&color=ea4aaa&logo=githubsponsors&logoColor=white" alt="Number of GitHub sponsors"></a>
+
 > **25,070 medicines registered in Egypt** with Arabic + English trade names, scientific composition, manufacturer, drug class, route of administration, and current EGP price.
 >
 > **25,070 دواء مسجل في مصر** مع الأسماء التجارية بالعربي والإنجليزي، التركيب العلمي، الشركة المنتجة، التصنيف الدوائي، طريقة الاستخدام، والسعر بالجنيه المصري.
